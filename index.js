@@ -11,4 +11,4 @@ client.on('message', message => {
   }
 });
  
-client.login('MzI1ODk1NTc2NjAyMjc5OTU0.DCe5dw.kV7qoOQTecJBXFwJrEw8K3DZ14w');
+client.login('TOKENGOESHERE');
